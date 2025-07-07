@@ -1,0 +1,5 @@
+
+
+> @coffic/buddy-types@1.0.3 build /Users/angel/Code/Coffic/Buddy/packages/buddy-types
+> tsc --project tsconfig.json
+
