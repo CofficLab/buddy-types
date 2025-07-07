@@ -64,6 +64,11 @@ export interface SuperContext {
      * 打开配置文件夹
      */
     openConfigFolder: () => void;
+
+    /**
+     * 打开日志文件夹
+     */
+    openLogsFolder: () => void;
   };
 
   /**
